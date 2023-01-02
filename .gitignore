@@ -3,6 +3,9 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+# Advent of Code's Input files
+*Input.txt
+
 # User-specific files
 *.rsuser
 *.suo
