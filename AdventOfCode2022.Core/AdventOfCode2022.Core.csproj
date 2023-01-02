@@ -1,0 +1,65 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Properties\Day10Input.txt" />
+    <None Remove="Properties\Day11Input.txt" />
+    <None Remove="Properties\Day12Input.txt" />
+    <None Remove="Properties\Day13Input.txt" />
+    <None Remove="Properties\Day14Input.txt" />
+    <None Remove="Properties\Day15Input.txt" />
+    <None Remove="Properties\Day16Input.txt" />
+    <None Remove="Properties\Day17Input.txt" />
+    <None Remove="Properties\Day18Input.txt" />
+    <None Remove="Properties\Day19Input.txt" />
+    <None Remove="Properties\Day1Input.txt" />
+    <None Remove="Properties\Day20Input.txt" />
+    <None Remove="Properties\Day21Input.txt" />
+    <None Remove="Properties\Day22Input.txt" />
+    <None Remove="Properties\Day23Input.txt" />
+    <None Remove="Properties\Day24Input.txt" />
+    <None Remove="Properties\Day25Input.txt" />
+    <None Remove="Properties\Day2Input.txt" />
+    <None Remove="Properties\Day3Input.txt" />
+    <None Remove="Properties\Day4Input.txt" />
+    <None Remove="Properties\Day5Input.txt" />
+    <None Remove="Properties\Day6Input.txt" />
+    <None Remove="Properties\Day7Input.txt" />
+    <None Remove="Properties\Day8Input.txt" />
+    <None Remove="Properties\Day9Input.txt" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Properties\Day1Input.txt" />
+    <EmbeddedResource Include="Properties\Day3Input.txt" />
+    <EmbeddedResource Include="Properties\Day2Input.txt" />
+    <EmbeddedResource Include="Properties\Day4Input.txt" />
+    <EmbeddedResource Include="Properties\Day5Input.txt" />
+    <EmbeddedResource Include="Properties\Day6Input.txt" />
+    <EmbeddedResource Include="Properties\Day7Input.txt" />
+    <EmbeddedResource Include="Properties\Day8Input.txt" />
+    <EmbeddedResource Include="Properties\Day9Input.txt" />
+    <EmbeddedResource Include="Properties\Day10Input.txt" />
+    <EmbeddedResource Include="Properties\Day11Input.txt" />
+    <EmbeddedResource Include="Properties\Day12Input.txt" />
+    <EmbeddedResource Include="Properties\Day13Input.txt" />
+    <EmbeddedResource Include="Properties\Day14Input.txt" />
+    <EmbeddedResource Include="Properties\Day15Input.txt" />
+    <EmbeddedResource Include="Properties\Day16Input.txt" />
+    <EmbeddedResource Include="Properties\Day17Input.txt" />
+    <EmbeddedResource Include="Properties\Day18Input.txt" />
+    <EmbeddedResource Include="Properties\Day19Input.txt" />
+    <EmbeddedResource Include="Properties\Day20Input.txt" />
+    <EmbeddedResource Include="Properties\Day21Input.txt" />
+    <EmbeddedResource Include="Properties\Day22Input.txt" />
+    <EmbeddedResource Include="Properties\Day23Input.txt" />
+    <EmbeddedResource Include="Properties\Day24Input.txt" />
+    <EmbeddedResource Include="Properties\Day25Input.txt" />
+  </ItemGroup>
+
+</Project>
