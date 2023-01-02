@@ -1,4 +1,4 @@
-# Solution for Advent Of Code 2022.
+# Solutions for Advent Of Code 2022.
 
 To use, execute the console application and input the day of the problem. The public test input will be used as default.
 
